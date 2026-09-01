@@ -7,5 +7,3 @@
 [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,md,coffeescript,tauri,rust,react,py,pytorch,java,lua,swift)](https://skillicons.dev)
 
 ## Socials
-
-[![Discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/coloured/discord.svg)
