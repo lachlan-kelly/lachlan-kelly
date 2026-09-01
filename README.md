@@ -1,6 +1,6 @@
 ## Applications & Tools
 
-[![Skills](https://skillicons.dev/icons?i=apple,arch,linux,windows,spotify,discord,stackoverflow,robloxstudio,pycharm,idea,webstorm,vscode,vscodium,vim,neovim,supabase,vercel,raspberrypi,npm,pnpm,nodejs,powershell,bash)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=apple,arch,linux,windows,discord,stackoverflow,robloxstudio,pycharm,idea,webstorm,vscode,vscodium,vim,neovim,supabase,vercel,raspberrypi,npm,pnpm,nodejs,powershell,bash)](https://skillicons.dev)
 
 ## Languages
 
