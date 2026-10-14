@@ -4,7 +4,7 @@
 
 ## Languages
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,md,coffeescript,tauri,rust,react,py,pytorch,java,lua,swift)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,md,coffeescript,rust,py,swift)](https://skillicons.dev)
 
 ## Socials
 
