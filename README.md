@@ -1,10 +1,10 @@
 ## Applications & Tools
 
-[![Skills](https://skillicons.dev/icons?i=apple,arch,linux,windows,discord,stackoverflow,robloxstudio,pycharm,idea,webstorm,vscode,vscodium,vim,neovim,supabase,vercel,raspberrypi,npm,pnpm,nodejs,powershell,bash)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=apple,linux,windows,discord,stackoverflow,,vscodium,vim,supabase,vercel,raspberrypi,npm,pnpm,nodejs,powershell,bash)](https://skillicons.dev)
 
 ## Languages
 
-[![Languages](https://skillicons.dev/icons?i=html,css,md,coffeescript,rust,py,swift)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=md,rust,py)](https://skillicons.dev)
 
 ## Socials
 
